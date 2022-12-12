@@ -16,5 +16,10 @@ public class Main {
       System.out.println("Print numbers example: ");
       System.out.println(330);
       System.out.println(201);
+
+      // math calculations using print
+      System.out.println("Math calculations using println()");
+      System.out.println(3 + 3);
+      System.out.println(4 + 6);
     }
   }
